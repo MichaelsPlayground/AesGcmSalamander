@@ -1,4 +1,4 @@
-package de.androidcrypto.consolewithrobotofont;
+package de.androidcrypto.aesgcmsalamander;
 
 import org.junit.Test;
 
